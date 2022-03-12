@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "882851418651",
+    "firebase_url": "https://diary-messenger-flutter-default-rtdb.firebaseio.com",
+    "project_id": "diary-messenger-flutter",
+    "storage_bucket": "diary-messenger-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882851418651:android:ef907a8d983a7311df5ebe",
+        "android_client_info": {
+          "package_name": "com.example.diary_messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882851418651-l42sv2fitnp66oirjbihjsn7avapj8jn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diary_messenger",
+            "certificate_hash": "f9a007f9b9e88fb0dbd3ad279b962a1cc3a6f703"
+          }
+        },
+        {
+          "client_id": "882851418651-0jo39ggctf1l2bs8bh8cev5ebedg3bp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl0hMg-lRxA9Fs8cP2k2eGkJIFK4IYDjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882851418651-0jo39ggctf1l2bs8bh8cev5ebedg3bp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882851418651:android:9738ae7019e3e16cdf5ebe",
+        "android_client_info": {
+          "package_name": "com.example.talk_to_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882851418651-0jo39ggctf1l2bs8bh8cev5ebedg3bp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl0hMg-lRxA9Fs8cP2k2eGkJIFK4IYDjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882851418651-0jo39ggctf1l2bs8bh8cev5ebedg3bp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
